@@ -1,3 +1,5 @@
+//ANSWERS
+
 //1
 function sum(a1:any,a2:any){
     return a1 + a2;
